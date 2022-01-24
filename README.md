@@ -1,2 +1,0 @@
-# weerachon-jant-project
- githubdeaktop
